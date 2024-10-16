@@ -1,0 +1,50 @@
+#poo {
+
+    text-align: center;
+    width: 200px;
+    height: 125px;
+    background-color: #333333;
+    border-radius: 5px;
+    border: 4px solid white;
+    font-size: 20px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.6);
+
+        }
+
+#color {
+
+    color: #00ff48
+
+
+}
+
+#skip {
+
+    text-align: center;
+    pointer-events: none;
+
+}
+
+#poo2 {
+
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+#base {
+
+background-color: grey;
+background-image: url('wall-murals-nice-white-and-grey-background.png');
+
+}
+
+#d {
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+
+}
